@@ -7,4 +7,4 @@ Throughout the program, I gained hands-on experience working with AWS services i
 
 Earning this badge reflects my growing skills in cloud computing and my commitment to building practical experience in modern software development and cloud infrastructure.
  
-![Logo](images/cloud-quest-badge.png)
+![AWS Badge](./images/cloud-quest-badge.png)
