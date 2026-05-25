@@ -68,5 +68,5 @@ Contribute to open-source cloud projects
 
 📫 Contact
 GitHub: https://github.com/TumeloMoyi
-LinkedIn: https://www.linkedin.com/in/tumelo-moyi
+LinkedIn: https://www.linkedin.com/in/tumelo-moyi-48028b34a/
 Email: moyitumelo65@gmail.com
